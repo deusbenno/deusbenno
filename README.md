@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deusbenno
 - 👀 I’m interested in webapp and mobile app development
-- 🌱 I’m currently learning java spring framework
+- 🌱 I’m currently learning java springboot framework
 - 💞️ I’m looking to collaborate on webapp and mobile app development
 - 📫 How to reach me is through emailing me at bennodeus@gmail.com
 - 😄 Pronouns: ...
